@@ -1,7 +1,7 @@
 # Zhiyan WANG
 **Data Analyst Intern / Data Scientist Intern**
 
-[📧 Email](mailto:13719098369@163.com) | [📱 Mobile](tel:+85267497064) | Hong Kong
+[📧 13719098369@163.com](mailto:13719098369@163.com) | [📱 (+852) 6749-7064](tel:+85267497064) | Hong Kong
 
 ---
 
