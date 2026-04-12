@@ -16,13 +16,13 @@
 ## 💼 Internship Experience
 ### China Minsheng Bank | Data Analyst Intern
 *Sep 2024 - Oct 2024*
-* **Data Processing:** Extracted and integrated **100,000+ customer data points** using SQL.
+* **Data Processing:** Extracted and integrated **100,000+ customer data points** using SQL, ensuring high efficiency in cleaning.
 * **Visualization:** Designed interactive dashboards to visualize branch sales performance, supporting data-driven decisions.
 
 ### Guangzhou Tungee Technology | Data Analysis Intern
 *July 2023 - Aug 2023*
 * **Data Cleaning:** Processed **30,000+ entries** from web scraping to ensure data accuracy.
-* **Market Analysis:** Analyzed Taobao keyword data to optimize product feature improvement.
+* **Market Analysis:** Analyzed Taobao keyword data to optimize coverage and product features.
 
 ---
 
@@ -33,8 +33,11 @@
 * Successfully published a paper in the *China Market* journal.
 
 ### Does LLM Know Your Personality?
-*Academic Research Project | 2026*
-* Evaluated the capability of LLMs to assess human personality traits through interaction data analysis and prompt engineering.
+*Academic Research Project | Spring 2026*
+* **Objective:** Investigated the reliability of Large Language Models in predicting Big Five personality traits based on human interaction patterns.
+* **Methodology:** Developed a testing framework using **Prompt Engineering** and **NLP** techniques to evaluate model responses against standardized psychological benchmarks.
+* **Tools:** Implemented the data analysis pipeline in **Python**, utilizing **Pandas** for data structuring and statistical libraries for correlation analysis.
+* **Outcome:** Identified key linguistic markers used by LLMs for personality inference and documented current model limitations in psychological profiling.
 
 ---
 
