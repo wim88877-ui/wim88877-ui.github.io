@@ -1,4 +1,8 @@
-<img src="wzy.jpg" width="130" align="right" style="border-radius: 8px; margin-left: 20px;">
+<div align="center">
+  <img src="wzy.jpg" width="150" style="border-radius: 8px;">
+</div>
+
+<br>
 
 # Zhiyan WANG
 **Data Analyst Intern / Data Scientist Intern**
