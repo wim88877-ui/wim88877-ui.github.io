@@ -7,7 +7,7 @@
 
 ## 🎓 Education
 ### Lingnan University, Hong Kong
-**Master of Science in Data Science** | *Sep 2025 - Aug 2026*
+**Master of Science in Data Science** | *Sep 2025 - Nov 2026*
 * **GPA:** 3.72 / 4.0 (Sem 1)
 * **Key Courses:** Machine Learning, Data Mining, Database Management, Python for Data Science.
 
